@@ -1,0 +1,13 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --watch ./tests/*.test.js --exit"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
